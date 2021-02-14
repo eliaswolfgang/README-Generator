@@ -32,7 +32,8 @@ N/A (none): This project has no licensing requirements.
 <img src = "./assets/screenshot1.png" width=100%>
 <img src = "./assets/screenshot2.png" width=100%>
 Plus, a video demonstrating the app's basic functionality, used to build this README!
-<a href="https://drive.google.com/file/d/11o6pI8bjNYI7Z54_73tIKBvuH1cITcN2/view" target="_blank">Watch video</a>\
+<a href="https://drive.google.com/file/d/11o6pI8bjNYI7Z54_73tIKBvuH1cITcN2/view" target="_blank">Watch video</a>
+
 IMPORTANT: These tags' "src" and "href" attributes were edited after dynamic README generation.
 
 ## Questions
