@@ -78,7 +78,7 @@ function generateMarkdown(data) {
   // First, get all licenses and corresponding badges required by the user
   getLicenseLink(data);
 
-  // Conditionals for each confirm prompt
+  // Conditionals for each confirm prompt (table of contents, contributing, and images)
   if (data.tableContents === true) {
     contents = `
 ## Table of Contents
@@ -96,7 +96,7 @@ function generateMarkdown(data) {
   };
   if (data.images === true) {
     for (var i=0 ; i < data.imagesNumber ; i++) {
-      imagesSection += `<img src = "./example${i}" width=100% >` 
+      imagesSection += `<img src = "./example${i}" width=100% >\n` 
     }
   }
   // Then, return the README content
