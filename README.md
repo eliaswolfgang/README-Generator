@@ -1,13 +1,13 @@
 # README Generator
 
 ## Table of Contents
-  -[Description](#Description)
-  -[Installation](#Installation)
-  -[Usage](#Usage)
-  -[Licenses](#Licenses)
-  -[Contributors](#Contributors)
-  -[Testing](#Testing)
-  -[Questions](#Questions)
+  -[Description](#Description)\ 
+  -[Installation](#Installation)\
+  -[Usage](#Usage)\
+  -[Licenses](#Licenses)\
+  -[Contributors](#Contributors)\
+  -[Testing](#Testing)\
+  -[Questions](#Questions)\
   
 
 ## Description
