@@ -82,12 +82,12 @@ function generateMarkdown(data) {
   if (data.tableContents === true) {
     contents = `
 ## Table of Contents
-  -[Description](#Description)\n
-  -[Installation](#Installation)\n
-  -[Usage](#Usage)\n
-  -[Licenses](#Licenses)\n
-  -[Contributors](#Contributors)\n
-  -[Testing](#Testing)\n
+  -[Description](#Description)\
+  -[Installation](#Installation)\
+  -[Usage](#Usage)\
+  -[Licenses](#Licenses)\
+  -[Contributors](#Contributors)\
+  -[Testing](#Testing)\
   -[Questions](#Questions)
   `
   };
