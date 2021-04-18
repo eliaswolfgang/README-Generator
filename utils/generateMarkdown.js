@@ -82,13 +82,13 @@ function generateMarkdown(data) {
   if (data.tableContents === true) {
     contents = `
 ## Table of Contents
-  -[Description](#Description)\
-  -[Installation](#Installation)\
-  -[Usage](#Usage)\
-  -[Licenses](#Licenses)\
-  -[Contributors](#Contributors)\
-  -[Testing](#Testing)\
-  -[Questions](#Questions)
+  * [Description](#Description)\
+  * [Installation](#Installation)\
+  * [Usage](#Usage)\
+  * [Licenses](#Licenses)\
+  * [Contributors](#Contributors)\
+  * [Testing](#Testing)\
+  * [Questions](#Questions)
   `
   };
   if (data.contributing === true) {
